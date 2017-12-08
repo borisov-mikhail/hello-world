@@ -1,4 +1,4 @@
 # hello-world
 
-My name is Mikhail
-I'm a student
+My name is Mikhail.
+I'm a student.
