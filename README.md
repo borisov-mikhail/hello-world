@@ -1,2 +1,4 @@
 # hello-world
-first try
+
+My name is Mikhail.
+I'm a student.
